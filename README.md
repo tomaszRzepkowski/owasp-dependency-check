@@ -1,5 +1,8 @@
 # owasp-dependency-check
 
+DISCLAIMER: This is not my work. Plugin is a fork of https://www.npmjs.com/package/owasp-dependency-check
+I needed to have OWASP CLI binaries updated to newest version so I created a fork.
+
 Node.js wrapper for the [OWASP depencency-check CLI tool](https://jeremylong.github.io/DependencyCheck/dependency-check-cli/index.html).
 
 ```
