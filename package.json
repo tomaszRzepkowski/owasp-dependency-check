@@ -4,29 +4,29 @@
   "description": "A Node.js wrapper for the CLI version of OWASP dependency-check tool.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/etnetera/owasp-dependency-check.git"
+    "url": "git+https://github.com/tomaszRzepkowski/owasp-dependency-check.git"
   },
   "bugs": {
-    "url": "https://github.com/etnetera/owasp-dependency-check/issues"
+    "url": "https://github.com/tomaszRzepkowski/owasp-dependency-check/issues"
   },
   "bin": {
     "owasp-dependency-check": "index.js"
   },
-  "author": "ivan.centes@etnetera.cz",
+  "author": "tomasz.rzepkowski91@gmail.com",
   "license": "MIT",
   "dependencies": {
     "commander": "^7.2.0",
     "download": "^8.0.0",
     "extract-zip": "^2.0.1",
     "node-fetch": "^2.6.1",
+    "owasp-dependency-check": "^0.0.18",
     "rimraf": "^3.0.2"
   },
-  "homepage": "https://github.com/etnetera/owasp-dependency-check#readme",
+  "homepage": "https://github.com/tomaszRzepkowski/owasp-dependency-check#readme",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
