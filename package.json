@@ -19,7 +19,6 @@
     "download": "^8.0.0",
     "extract-zip": "^2.0.1",
     "node-fetch": "^2.6.1",
-    "owasp-dependency-check": "^0.0.18",
     "rimraf": "^3.0.2"
   },
   "homepage": "https://github.com/tomaszRzepkowski/owasp-dependency-check#readme",
