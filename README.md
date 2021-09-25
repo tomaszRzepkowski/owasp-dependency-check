@@ -6,7 +6,7 @@ I needed to have OWASP CLI binaries updated to newest version so I created a for
 Node.js wrapper for the [OWASP depencency-check CLI tool](https://jeremylong.github.io/DependencyCheck/dependency-check-cli/index.html).
 
 ```
-npm install -D owasp-dependency-check
+npm install -D @rzepcom/owasp-dependency-check
 ```
 
 ## Usage
