@@ -21,9 +21,11 @@ _odc_completions()
             --connectionString
             --cveUrlBase
             --cveUrlModified
-            --cveValidForHours
+            --cveValidForHours <hours>
+            --cveStartYear <year>
             --cveUser <user>
             --cvePassword <password>
+            --cveDownloadWait <milliseconds>
         -d --data
             --dbDriverName
             --dbDriverPath
